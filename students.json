@@ -1,184 +1,112 @@
 [
-    {
-        "id": 1,
-        "name": "jeff bezos",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "abbcd"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
+  {
+    "id": 1,
+    "name": "jeff bezos",
+    "contact": {
+      "phone": 1234,
+      "email": "asd@asd.com",
+      "line": "abbcd"
     },
-    {
-        "id": 2,
-        "name": "ab cd",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "qwer"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
+    "courses": ["asas", "adasd", "dsdsds"]
+  },
+  {
+    "id": 2,
+    "name": "ab cd",
+    "contact": {
+      "phone": 1234,
+      "email": "asd@asd.com",
+      "line": "qwer"
     },
-    {
-        "id": 3,
-        "name": "Hello World",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "qwer"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
+    "courses": ["asas", "adasd", "dsdsds"]
+  },
+  {
+    "id": 3,
+    "name": "Hello World",
+    "contact": {
+      "phone": 1234,
+      "email": "asd@asd.com",
+      "line": "qwer"
     },
-    {
-        "id": 4,
-        "name": "asd",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "qwer"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
+    "courses": ["asas", "adasd", "dsdsds"]
+  },
+  {
+    "id": 4,
+    "name": "asd",
+    "contact": {
+      "phone": 1234,
+      "email": "asd@asd.com",
+      "line": "qwer"
     },
-    {
-        "id": 5,
-        "name": "asd",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "qwer"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
+    "courses": ["asas", "adasd", "dsdsds"]
+  },
+  {
+    "id": 5,
+    "name": "asd",
+    "contact": {
+      "phone": 1234,
+      "email": "asd@asd.com",
+      "line": "qwer"
     },
-    {
-        "id": 7,
-        "name": "asd",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "qwer"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
+    "courses": ["asas", "adasd", "dsdsds"]
+  },
+  {
+    "id": 7,
+    "name": "asd",
+    "contact": {
+      "phone": 1234,
+      "email": "asd@asd.com",
+      "line": "qwer"
     },
-    {
-        "id": 8,
-        "name": "asd",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "qwer"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
+    "courses": ["asas", "adasd", "dsdsds"]
+  },
+  {
+    "id": 8,
+    "name": "asd",
+    "contact": {
+      "phone": 1234,
+      "email": "asd@asd.com",
+      "line": "qwer"
     },
-    {
-        "id": 9,
-        "name": "asd",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "qwer"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
+    "courses": ["asas", "adasd", "dsdsds"]
+  },
+  {
+    "id": 9,
+    "name": "asd",
+    "contact": {
+      "phone": 1234,
+      "email": "asd@asd.com",
+      "line": "qwer"
     },
-    {
-        "id": 10,
-        "name": "asd",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "abbcd"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
+    "courses": ["asas", "adasd", "dsdsds"]
+  },
+  {
+    "id": 10,
+    "name": "asd",
+    "contact": {
+      "phone": 1234,
+      "email": "asd@asd.com",
+      "line": "abbcd"
     },
-    {
-        "id": 10,
-        "name": "asd",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "abbcd"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
+    "courses": ["asas", "adasd", "dsdsds"]
+  },
+  {
+    "id": 10,
+    "name": "asd",
+    "contact": {
+      "phone": 1234,
+      "email": "asd@asd.com",
+      "line": "abbcd"
     },
-    {
-        "id": 10,
-        "name": "asd",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "abbcd"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
+    "courses": ["asas", "adasd", "dsdsds"]
+  },
+  {
+    "id": 10,
+    "name": "asd",
+    "contact": {
+      "phone": 1234,
+      "email": "asd@asd.com",
+      "line": "abbcd"
     },
-    {
-        "id": 10,
-        "name": "asd",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "abbcd"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
-    },
-    {
-        "id": 10,
-        "name": "asd",
-        "contact": {
-            "phone": 1234,
-            "email": "asd@asd.com",
-            "line": "abbcd"
-        },
-        "courses": [
-            "asas",
-            "adasd",
-            "dsdsds"
-        ]
-    }
+    "courses": ["asas", "adasd", "dsdsds"]
+  }
 ]
